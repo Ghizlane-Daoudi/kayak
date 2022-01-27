@@ -62,4 +62,4 @@ Marketing team wants to focus first on the best cities to travel to in France. A
 "Bayonne",
 "La Rochelle"]
 
-Your team should focus only on the above cities for your project.
+In this project we will focus only on the above cities..
